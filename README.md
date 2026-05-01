@@ -36,3 +36,7 @@ Gender distribution: Both male and female students are represented across depart
 
 [Dashboard link:
 "https://public.tableau.com/views/StudentPerformanceDashboard_17776469767930/Gender-wisePerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"]
+
+
+An Interactive Dashboard with Improvement tip:
+"https://symmetrical-spoon-p6g9vp7gxv4frxgw-8000.app.github.dev/dashboard.html"

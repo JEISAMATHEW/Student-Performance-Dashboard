@@ -1,0 +1,81 @@
+Student_ID,Student_Name,Gender,Department,Semester,Subject_1,Subject_2,Subject_3,Subject_4,Attendance,Marks,Sum,Final_Result
+101,Asha,Female,BCA,1,78,82,75,80,88,79,584,Pass
+102,Rahul,Male,BCom,1,65,70,68,72,75,69,522,Pass
+103,Neha,Female,BBA,2,85,90,88,92,95,89,644,Pass
+104,Arjun,Male,BCA,2,45,50,48,52,60,49,410,Fail
+105,Priya,Female,BBA,3,92,94,90,96,97,93,670,Pass
+106,Kiran,Male,BCom,2,55,60,58,62,70,59,472,Pass
+107,Meena,Female,BCA,1,88,85,87,90,92,88,638,Pass
+108,Rohit,Male,BBA,3,60,65,63,67,72,64,502,Pass
+109,Divya,Female,BCom,2,75,78,80,76,85,77,582,Pass
+110,Anil,Male,BCA,3,40,45,42,48,55,44,387,Fail
+111,Sneha,Female,BBA,1,82,85,83,88,90,84,624,Pass
+112,Vikas,Male,BCom,3,68,72,70,74,78,71,548,Pass
+113,Pooja,Female,BCA,2,91,93,89,95,96,92,671,Pass
+114,Ajay,Male,BBA,1,58,62,60,65,70,61,491,Pass
+115,Kavya,Female,BCom,3,86,88,90,87,93,88,650,Pass
+116,Manoj,Male,BCA,2,47,50,49,53,65,50,432,Fail
+117,Ritu,Female,BBA,2,77,80,78,82,88,79,603,Pass
+118,Amit,Male,BCom,1,66,68,70,65,75,67,530,Pass
+119,Nisha,Female,BCA,3,89,91,93,90,94,91,670,Pass
+120,Deepak,Male,BBA,2,52,55,58,54,68,55,464,Pass
+121,Ananya,Female,BCom,1,84,86,88,85,91,86,642,Pass
+122,Suresh,Male,BCA,3,43,46,45,48,58,45,410,Fail
+123,Swati,Female,BBA,1,79,82,80,85,87,81,618,Pass
+124,Ramesh,Male,BCom,2,61,65,63,67,73,64,519,Pass
+125,Shreya,Female,BCA,2,93,95,92,96,97,94,694,Pass
+126,Karthik,Male,BBA,3,57,60,62,59,70,60,497,Pass
+127,Rekha,Female,BCom,1,88,90,92,89,94,90,671,Pass
+128,Varun,Male,BCA,1,49,52,50,54,65,51,450,Fail
+129,Anita,Female,BBA,2,83,85,87,84,90,85,645,Pass
+130,Sachin,Male,BCom,3,69,72,74,70,80,71,569,Pass
+131,Lakshmi,Female,BCA,3,91,93,95,92,96,93,694,Pass
+132,Pradeep,Male,BBA,1,55,58,60,57,68,58,489,Pass
+133,Geeta,Female,BCom,2,87,89,91,88,93,89,672,Pass
+134,Harish,Male,BCA,2,44,47,46,49,60,46,428,Fail
+135,Rani,Female,BBA,3,90,92,94,91,95,92,692,Pass
+136,Sunil,Male,BCom,1,63,66,65,68,74,65,538,Pass
+137,Deepa,Female,BCA,1,85,88,87,90,92,88,668,Pass
+138,Aravind,Male,BBA,2,59,62,60,63,70,61,515,Pass
+139,Komal,Female,BCom,3,82,84,86,83,89,84,650,Pass
+140,Vinay,Male,BCA,3,41,44,43,46,55,43,415,Fail
+201,Siddharth Mehta,Female,BA,3,96,78,45,81,96,72,672,Pass
+202,Divya Patel,Female,BSc,5,92,96,56,55,65,79,650,Fail
+203,Divya Mehta,Male,BA,5,49,83,57,69,73,63,603,Fail
+204,Kavya Patel,Male,BA,4,44,58,93,78,74,66,621,Fail
+205,Arjun Verma,Male,BCom,2,85,63,39,44,68,58,564,Fail
+206,Kavya Sharma,Female,BCom,2,49,99,50,71,63,70,609,Fail
+207,Priya Joshi,Male,BCA,3,39,54,83,75,80,58,598,Pass
+208,Pooja Kumar,Male,BSc,6,97,57,38,68,88,69,632,Pass
+209,Neha Sharma,Female,BCom,5,100,58,78,64,63,77,655,Fail
+210,Priya Reddy,Female,BCA,1,96,51,99,35,85,72,648,Pass
+211,Vikram Joshi,Male,BSc,5,87,97,35,92,65,76,668,Fail
+212,Swati Sharma,Male,BCA,1,35,86,59,46,91,58,588,Pass
+213,Ishita Reddy,Female,BA,2,40,63,57,62,85,55,577,Pass
+214,Priya Verma,Female,BA,3,94,52,90,90,87,79,709,Pass
+215,Neha Sharma,Female,BCA,3,97,48,77,71,61,76,648,Fail
+216,Ishita Joshi,Male,BSc,3,83,75,59,86,74,73,669,Fail
+217,Nikhil Patel,Female,BSc,5,50,88,87,85,84,79,695,Pass
+218,Arjun Das,Female,BCom,1,56,59,67,80,61,66,609,Fail
+219,Anjali Kumar,Male,BCom,5,60,89,36,67,95,61,632,Pass
+220,Nikhil Nair,Male,BCom,1,43,85,68,51,65,61,595,Fail
+221,Aarav Das,Male,BBA,4,47,93,97,48,85,73,668,Pass
+222,Arjun Sharma,Female,BA,4,55,53,76,37,74,56,577,Fail
+223,Ritika Singh,Female,BSc,3,93,40,35,48,80,53,575,Pass
+224,Divya Das,Male,BCA,6,57,92,67,87,60,81,674,Fail
+225,Manish Das,Male,BBA,6,59,99,87,36,94,74,680,Pass
+226,Sneha Patel,Male,BBA,5,72,98,83,76,99,79,738,Pass
+227,Manish Mehta,Male,BSc,3,72,51,88,92,76,80,689,Pass
+228,Swati Mehta,Female,BCA,1,36,63,73,71,61,65,598,Fail
+229,Arjun Das,Female,BA,5,83,48,97,46,88,64,660,Pass
+230,Swati Verma,Male,BCA,4,67,35,43,87,90,54,610,Pass
+231,Karan Nair,Male,BSc,1,40,75,50,77,93,59,626,Pass
+232,Nikhil Patel,Female,BCA,5,97,39,43,44,70,53,583,Fail
+233,Arjun Kumar,Male,BSc,2,88,95,37,84,80,73,692,Pass
+234,Vikram Das,Female,BBA,4,50,36,71,98,75,59,627,Fail
+235,Ritika Reddy,Female,BCA,2,59,93,82,54,88,72,685,Pass
+236,Karan Nair,Male,BCA,2,89,55,72,92,95,79,720,Pass
+237,Nikhil Das,Female,BSc,4,82,66,81,89,91,79,729,Pass
+238,Divya Nair,Male,BA,5,55,46,92,70,94,70,669,Pass
+239,Ritika Nair,Male,BBA,2,74,79,79,88,100,77,737,Pass
+240,Sneha Sharma,Male,BSc,3,98,100,35,47,83,73,678,Pass
